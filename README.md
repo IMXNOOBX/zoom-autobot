@@ -17,4 +17,4 @@ Simple discord selbot to automatically interact with zooms twitch follow bot. Wi
 The bot doesn't store which account have already follow you so it might send follow request with accounts that already follow you so the rates will be much lower, i can't do anything but suggest the zoom bot developer to improve the bot.
 
 #### for the developer
-If you are a Zoom bot developer and want to contact me regarding this project, you can do so through Discord. This project isn't meant to annoy you or damage your project in any way. The purpose of this bot is to automate the usage of the free trial of the bot.
+If you are the zoom bot developer and want to contact me regarding this project, you can do so through Discord. This project isn't meant to annoy you or damage your project in any way. The purpose of this bot is to automate the usage of the free trial of the bot.
