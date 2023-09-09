@@ -10,7 +10,7 @@ Simple discord selbot to automatically interact with zooms twitch follow bot. Wi
 * ❕ You might want to check if channel id's are the same ones in the server just in case
 
 # 🚨 Warning
-* You might be manually banned after few weeks, use it at your own risk (wich isn't much as you can create more accounts easily) 
+* You might be manually banned from the discord server after few weeks, use it at your own risk (wich isn't much as you can create more accounts easily) 
 * Using selfbots its against discord [tos](https://discord.com/terms)
 
 #### note
