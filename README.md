@@ -1,5 +1,5 @@
 # 🌌 zoom-autobot
-Simple discord selbot to automatically interact with zooms twitch follow bot. With this bot at current rates you can get 60 follows per 9 minutes which if hosted 24/7 you will farm 400/h and 9,600/day **[*]()**
+Simple discord selbot to automatically interact with zooms twitch follow bot. With this bot at current rates you can get 60 follows per 9 minutes which if hosted 24/7 you will farm 400/h and 9,600/day **[*](https://github.com/IMXNOOBX/zoom-autobot#note)**
 
 ![img](./zoomss.png)
 
